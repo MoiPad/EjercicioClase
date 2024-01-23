@@ -12,3 +12,4 @@ C:\Users\MPamdoe\source\repos\EjercicioClase\EjercicioClase\bin\Debug\net8.0\Eje
 C:\Users\MPamdoe\source\repos\EjercicioClase\EjercicioClase\bin\Debug\net8.0\EjercicioClase.pdb
 C:\Users\MPamdoe\source\repos\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.genruntimeconfig.cache
 C:\Users\MPamdoe\source\repos\EjercicioClase\EjercicioClase\obj\Debug\net8.0\ref\EjercicioClase.dll
+C:\Users\MPamdoe\source\repos\EjercicioClase\EjercicioClase\obj\Debug\net8.0\EjercicioClase.sourcelink.json
